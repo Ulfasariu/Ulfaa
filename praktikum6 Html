@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html iang="en">
+    <head>
+        <style>
+            a {
+                text-decoration: black;
+
+            }
+
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,0">
+</head>
+<body>
+    <h1 align="center">belajar hyperlink</h1>
+    <a href="https://polinef.ac.id/berita-polinef/">hyperlink eksternal polinef</a>
+    <br>
+    <a href="Praktikum3.html">hyperlink internal</a>
+    <br>
+    <a href="https://www.instagram.com/ ">instagram</a>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w4drq_jLd20?si=0ObYiQwZUFBu-5cO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>youtube</iframe>
+  <br>
+  <ul>
+    <li><a href="pratikum1.html">praktikum 1</a></li>
+    <li><a href="coba html">praktikum 2</a></li>
+    <li><a href="test 1 html">praktikum 3</a> </li>
+    <li><a href="hyperlink.html">hyperlink</a></li>
+  </ul>
+  <br>
+  <a href=""
+  </ul>
+
+
+</body>  
+</html>
